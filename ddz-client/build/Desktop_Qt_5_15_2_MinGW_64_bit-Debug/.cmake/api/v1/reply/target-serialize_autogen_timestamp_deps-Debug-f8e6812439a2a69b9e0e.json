@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"serialize/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "serialize_autogen_timestamp_deps::@f3c3b027229a9a158e24",
+	"isGeneratorProvided" : true,
+	"name" : "serialize_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "serialize",
+		"source" : "serialize"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

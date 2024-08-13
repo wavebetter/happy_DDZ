@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"crypto/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "crypto_autogen_timestamp_deps::@1d62b725e69adc70ad4a",
+	"isGeneratorProvided" : true,
+	"name" : "crypto_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "crypto",
+		"source" : "crypto"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

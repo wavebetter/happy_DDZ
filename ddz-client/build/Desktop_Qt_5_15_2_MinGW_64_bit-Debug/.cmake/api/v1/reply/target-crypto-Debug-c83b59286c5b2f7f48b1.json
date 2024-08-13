@@ -1,0 +1,261 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "crypto/libcrypto.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"crypto/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/crypto/crypto_autogen/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/card"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/windows"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/control"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/player"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/strategy"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/thread"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/tcp"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/serialize"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "E:/serverProject/DDZ-NetWork/0814/ddz-client/ddz-client/crypto"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/OpenSSL-Win64/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Protobuf/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "E:/QT5.15/5.15.2/mingw81_64/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "E:/QT5.15/5.15.2/mingw81_64/include/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "E:/QT5.15/5.15.2/mingw81_64/./mkspecs/win32-g++"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "crypto_autogen_timestamp_deps::@1d62b725e69adc70ad4a"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "crypto_autogen::@1d62b725e69adc70ad4a"
+		}
+	],
+	"id" : "crypto::@1d62b725e69adc70ad4a",
+	"name" : "crypto",
+	"nameOnDisk" : "libcrypto.a",
+	"paths" : 
+	{
+		"build" : "crypto",
+		"source" : "crypto"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				7
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				8
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/crypto/crypto_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "crypto/aescrypto.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "crypto/base64.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "crypto/rsacrypto.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "crypto/aescrypto.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "crypto/base64.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "crypto/rsacrypto.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/crypto/crypto_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/crypto/crypto_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

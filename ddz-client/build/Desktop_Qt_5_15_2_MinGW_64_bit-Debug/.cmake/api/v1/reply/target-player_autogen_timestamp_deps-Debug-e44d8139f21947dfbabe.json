@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"player/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "player_autogen_timestamp_deps::@6e497030d9506a5b7385",
+	"isGeneratorProvided" : true,
+	"name" : "player_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "player",
+		"source" : "player"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

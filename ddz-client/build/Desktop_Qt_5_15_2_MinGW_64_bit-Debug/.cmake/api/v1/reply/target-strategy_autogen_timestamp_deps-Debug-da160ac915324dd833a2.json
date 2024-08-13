@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"strategy/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "strategy_autogen_timestamp_deps::@241ee8dc02c6c148167d",
+	"isGeneratorProvided" : true,
+	"name" : "strategy_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "strategy",
+		"source" : "strategy"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

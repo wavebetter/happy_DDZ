@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"thread/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "thread_autogen_timestamp_deps::@1994991b6c1bd8685afc",
+	"isGeneratorProvided" : true,
+	"name" : "thread_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "thread",
+		"source" : "thread"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

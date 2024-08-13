@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"windows/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "windows_autogen_timestamp_deps::@f197aaf5197350ad3995",
+	"isGeneratorProvided" : true,
+	"name" : "windows_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "windows",
+		"source" : "windows"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

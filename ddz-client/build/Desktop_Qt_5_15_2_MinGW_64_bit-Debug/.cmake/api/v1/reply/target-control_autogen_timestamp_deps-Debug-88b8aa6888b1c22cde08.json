@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"control/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "control_autogen_timestamp_deps::@a06da966ec71d8a337a9",
+	"isGeneratorProvided" : true,
+	"name" : "control_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "control",
+		"source" : "control"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tcp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "tcp_autogen_timestamp_deps::@8966b6d2f8df3a1515e1",
+	"isGeneratorProvided" : true,
+	"name" : "tcp_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "tcp",
+		"source" : "tcp"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

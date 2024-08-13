@@ -1,0 +1,66 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "card::@182f1c272d1d9a15b9e1"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "control::@a06da966ec71d8a337a9"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "windows::@f197aaf5197350ad3995"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "player::@6e497030d9506a5b7385"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "tcp::@8966b6d2f8df3a1515e1"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "strategy::@241ee8dc02c6c148167d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "thread::@1994991b6c1bd8685afc"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "serialize::@f3c3b027229a9a158e24"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "crypto::@1d62b725e69adc70ad4a"
+		}
+	],
+	"id" : "ddz-client_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ddz-client_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

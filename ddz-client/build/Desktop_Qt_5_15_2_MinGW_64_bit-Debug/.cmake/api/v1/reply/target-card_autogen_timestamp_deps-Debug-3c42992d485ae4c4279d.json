@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"card/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "card_autogen_timestamp_deps::@182f1c272d1d9a15b9e1",
+	"isGeneratorProvided" : true,
+	"name" : "card_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "card",
+		"source" : "card"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
